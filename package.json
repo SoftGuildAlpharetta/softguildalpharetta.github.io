@@ -1,0 +1,23 @@
+{
+  "name": "softguildalpharetta.github.io",
+  "version": "1.0.0",
+  "description": "A test repository for demos in class.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "web-dev-server --node-resolve --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftGuildAlpharetta/softguildalpharetta.github.io.git"
+  },
+  "author": "JLing@Softguild.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoftGuildAlpharetta/softguildalpharetta.github.io/issues"
+  },
+  "homepage": "https://github.com/SoftGuildAlpharetta/softguildalpharetta.github.io#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.32"
+  }
+}
